@@ -2,13 +2,6 @@
 using namespace std;
 # define num1 2
 # define num2 3
-# define num 4
-# define num 5
-# define num 6
-# define num 7
-# define num 8
-# define num 9
-# define num 10
 int main()
 {
     int i,j;

@@ -5,7 +5,7 @@ using namespace std;
  int main()
  {
  	int a=20; 
- 	cout<<a;
+ 	cout<<a<<endl;
  	
  	
  	// constant variable
